@@ -7,7 +7,7 @@ export default function DoodleBackground() {
       style={{
         backgroundImage: `url("/Body BG.png")`,
         backgroundRepeat: "repeat",
-        backgroundSize: "700px 700px",
+        backgroundSize: "700px 500px",
       }}
     />
   );
